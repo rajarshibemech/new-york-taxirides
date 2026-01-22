@@ -1,6 +1,6 @@
 # Predicting NYC Taxi Ride Duration: A Comprehensive Data Science Analysis
 
-![NYC Taxi Analysis](assets/banner.jpg)
+![NYC Taxi Analysis](assets/header.png)
 
 ## Executive Summary
 
